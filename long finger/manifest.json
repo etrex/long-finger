@@ -3,7 +3,7 @@
 
   "name": "long finger",
   "description": "This extension change cursor index finger to long finger.",
-  "version": "3.0",
+  "version": "4.0",
   "browser_action": {
     "default_icon": "longFinger.png"
   },
